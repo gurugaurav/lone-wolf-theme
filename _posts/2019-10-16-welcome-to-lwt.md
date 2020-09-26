@@ -1,14 +1,11 @@
 ---
-title:  "Welcome to LWT"
-excerpt: "Welcome message to show LWT theme."
-date:   "2019-10-16"
-categories: welcome
+title: Welcome to LWT
+date: 2019-10-16 00:00:00 Z
+permalink: "/welcome/"
+categories:
+- welcome
+excerpt: Welcome message to show LWT theme.
 layout: post
-#header:
-#  teaser: coding-langs.jpg
-#  alt: sample post 1
-#  caption: testing post caption
-permalink: /welcome/
 ---
 
 Write your welcome story here.
